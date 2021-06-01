@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yu-Chieh Wang
 - 👀 I’m interested in data science & machine learning.
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on real world data
 - 📫 My email address is angelxd84130@gmail.com
 
