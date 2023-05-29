@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yu-Chieh Wang
 - 👀 I’m interested in data science & machine learning.
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on real world data
+- 🌱 I’m currently learning AWS SageMaker
+- 💞️ I’m familiar  with python & SQL
 - 📫 My email address is angelxd84130@gmail.com
 
 <!---
