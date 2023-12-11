@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Yu-Chieh Wang
+- 👋 Hi, I’m Yu-Chieh Wang (Angel)
 - 👀 I’m interested in data science & machine learning.
-- 🌱 I’m currently learning AWS SageMaker
-- 💞️ I’m familiar  with python & SQL
+- 🌱 I'm a data engineer: familiar with building data warehouses and ML model deployment
 - 📫 My email address is angelxd84130@gmail.com
 
 <!---
